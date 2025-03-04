@@ -1,44 +1,44 @@
-**Netflix Clone**
+****Netflix Clone********
 
 This is a Netflix Clone website that replicates the UI of Netflix's homepage. The project is built using HTML and CSS to showcase frontend development skills.
 
-Features
+**Features**
 
-Responsive Netflix-like homepage UI
+1. Responsive Netflix-like homepage UI
 
-Hero section with subscription call-to-action
+2. Hero section with subscription call-to-action
 
-Sections highlighting features like TV compatibility, offline downloads, and multi-device support
+3. Sections highlighting features like TV compatibility, offline downloads, and multi-device support
 
-FAQ section with common questions
+4. FAQ section with common questions
 
-Footer with useful links
+5. Footer with useful links
 
-Technologies Used
+**Technologies Used**
 
-HTML: Structure of the website
+1. HTML: Structure of the website
 
-CSS: Styling and layout
+2. CSS: Styling and layout
+**
+**Getting Started****
 
-Getting Started
-
-Prerequisites
+**Prerequisites**
 
 Ensure you have a web browser to view the project.
 
-Installation
+**Installation******
 
-Clone the repository:
+1. Clone the repository:
 
 git clone https://github.com/your-username/netflix-clone.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 cd netflix-clone
 
-Open index.html in your preferred web browser.
+3. Open index.html in your preferred web browser.
 
-Project Structure
+**Project Structure******
 
 Netflix-Clone/
 │-- index.html
