@@ -1,4 +1,4 @@
-****Netflix Clone********
+****Netflix Clone****
 
 This is a Netflix Clone website that replicates the UI of Netflix's homepage. The project is built using HTML and CSS to showcase frontend development skills.
 
@@ -19,14 +19,14 @@ This is a Netflix Clone website that replicates the UI of Netflix's homepage. Th
 1. HTML: Structure of the website
 
 2. CSS: Styling and layout
-**
-**Getting Started****
+
+**Getting Started**
 
 **Prerequisites**
 
 Ensure you have a web browser to view the project.
 
-**Installation******
+**Installation**
 
 1. Clone the repository:
 
@@ -38,7 +38,7 @@ cd netflix-clone
 
 3. Open index.html in your preferred web browser.
 
-**Project Structure******
+**Project Structure**
 
 Netflix-Clone/
 │-- index.html
