@@ -30,7 +30,7 @@ Ensure you have a web browser to view the project.
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/netflix-clone.git
+git clone 
 
 2. Navigate to the project directory:
 
