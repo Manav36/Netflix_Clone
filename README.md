@@ -38,15 +38,6 @@ cd netflix-clone
 
 3. Open index.html in your preferred web browser.
 
-**Project Structure**
-
-Netflix-Clone/
-│-- index.html
-│-- style.css
-│-- assets/
-│   ├── images/
-│   ├── videos/
-
 **Screenshots**
 
 ![Screenshot 2025-03-04 123013](https://github.com/user-attachments/assets/cb3cfd17-4cfd-4ef7-8d06-31201d914e16)
